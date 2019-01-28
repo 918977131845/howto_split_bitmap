@@ -1,0 +1,10 @@
+H:\howto_split_bitmap\howto_split_bitmap\bin\Debug\test.bmp
+H:\howto_split_bitmap\howto_split_bitmap\bin\Debug\howto_split_bitmap.exe
+H:\howto_split_bitmap\howto_split_bitmap\bin\Debug\howto_split_bitmap.pdb
+H:\howto_split_bitmap\howto_split_bitmap\obj\Debug\howto_split_bitmap.csprojAssemblyReference.cache
+H:\howto_split_bitmap\howto_split_bitmap\obj\Debug\howto_split_bitmap.Form1.resources
+H:\howto_split_bitmap\howto_split_bitmap\obj\Debug\howto_split_bitmap.Properties.Resources.resources
+H:\howto_split_bitmap\howto_split_bitmap\obj\Debug\howto_split_bitmap.csproj.GenerateResource.cache
+H:\howto_split_bitmap\howto_split_bitmap\obj\Debug\howto_split_bitmap.csproj.CoreCompileInputs.cache
+H:\howto_split_bitmap\howto_split_bitmap\obj\Debug\howto_split_bitmap.exe
+H:\howto_split_bitmap\howto_split_bitmap\obj\Debug\howto_split_bitmap.pdb
